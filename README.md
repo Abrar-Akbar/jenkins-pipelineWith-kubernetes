@@ -10,4 +10,10 @@ Prerequisites:
    -  Helm package manager
    -  Argo CD
 
+Steps:
 
+    1. Install the necessary Jenkins plugins:
+       1.1 Git plugin
+       1.2 Maven Integration plugin
+       1.3 Pipeline plugin
+       1.4 Kubernetes Continuous Deploy plugin
